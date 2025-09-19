@@ -23,10 +23,10 @@ I'm a passionate developer who loves to create innovative solutions and explore 
 
 ### 📈 GitHub Stats
 
-<center>
+<div align="center" style="display: flex; justify-content: center; gap: 1rem;">
   <img src="https://github-readme-stats.vercel.app/api?username=az4if&show_icons=true&theme=radical" alt="az4if's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=az4if&theme=radical" alt="az4if's GitHub streak" />
-</center>
+</div>
 
 ---
 
