@@ -34,9 +34,16 @@ I'm a passionate developer who loves to create innovative solutions and explore 
 ## 📈 Contribution Stack
 
 <div align="center">
-
 <a href="https://github.com/az4if">
 <img src="https://github-widgetbox.vercel.app/api/profile?username=az4if&data=followers,repositories,stars,commits&theme=carbon" alt="GitHub WidgetBox" />
+</a>
+<a href="https://mygithubinsights.vercel.app">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://mygithubinsights.vercel.app/api/insight?username=az4if&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&heatmap=false&toprepos=false&achievements=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://mygithubinsights.vercel.app/api/insight?username=az4if&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&heatmap=false&toprepos=false&achievements=false">
+  <img src="https://mygithubinsights.vercel.app/api/insight?username=az4if&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&heatmap=false&toprepos=false&achievements=false" alt="GitHub Card" width="850" />
+</a>
+</picture>
 </a>
 </div>
 ---
