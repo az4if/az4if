@@ -38,7 +38,7 @@ I'm a passionate developer who loves to create innovative solutions and explore 
 <a href="https://github.com/az4if">
 <img src="https://github-widgetbox.vercel.app/api/profile?username=az4if&data=followers,repositories,stars,commits&theme=carbon" alt="GitHub WidgetBox" />
 </a>
-
+</div>
 ---
 
 ### 📫 How to Reach Me
