@@ -30,6 +30,7 @@ I'm a passionate developer who loves to create innovative solutions and explore 
 </div>
 
 ---
+
 ## 📈 Contribution Stack
 
 <div align="center">
@@ -48,6 +49,7 @@ I'm a passionate developer who loves to create innovative solutions and explore 
 </a>
   
 </div>
+
 ---
 
 ### 📫 How to Reach Me
