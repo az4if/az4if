@@ -46,7 +46,3 @@ I'm a passionate developer who loves to create innovative solutions and explore 
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
 - 🐦 [Twitter](https://twitter.com/yourhandle)
 - 📧 Email: az4if@proton.me
-
----
-
-⭐️ From [az4if](https://github.com/az4if)
