@@ -49,15 +49,4 @@ I'm a passionate developer who loves to create innovative solutions and explore 
 
 ---
 
-### ⚡ Fun Facts
-
-- 🔭 I'm currently working on exciting AI projects
-- 🌱 I'm currently learning advanced cloud architectures
-- 👯 I'm looking to collaborate on open-source projects
-- 🤔 I'm looking for help with quantum computing concepts
-- 💬 Ask me about web development and DevOps
-- ⚡ Fun fact: I can solve a Rubik's cube in under 10 minutes!
-
----
-
 ⭐️ From [az4if](https://github.com/az4if)
