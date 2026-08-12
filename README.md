@@ -36,7 +36,15 @@ I'm a passionate developer who loves to create innovative solutions and explore 
   </a>
 </picture>
 </a>
-<img src="https://raw.githubusercontent.com/MarcUs7i/MarcUs7i/output/snake.svg" alt="Snake animation" />
+<div align="center">
+
+<a href="https://github.com/az4if">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
+</picture>
+</a>
 
 </div>
 
