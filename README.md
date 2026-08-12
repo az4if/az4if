@@ -36,9 +36,8 @@ I'm a passionate developer who loves to create innovative solutions and explore 
   </a>
 </picture>
 </a>
-<a>
 <img src="https://raw.githubusercontent.com/MarcUs7i/MarcUs7i/output/snake.svg" alt="Snake animation" />
-</a>
+
 </div>
 
 ---
