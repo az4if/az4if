@@ -227,9 +227,10 @@ Anime isn't just something I watch — it's a huge part of my personality.
 # 🎧 Currently Playing
 
 <div align="center">
+<a href="https://github.com/az4if">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ajasif99&cover_image=true&theme=spotify-embed&show_offline=false&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://github.com/kittinan/spotify-github-profile)
-
+</a>
 </div>
 
 > 🎵 **Music is basically part of my development environment.**
