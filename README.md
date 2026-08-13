@@ -26,7 +26,19 @@ I enjoy turning complex problems into **simple, beautiful, and intuitive solutio
 
 ## 📝 Languages & Skills
 
-### 🖥️ Frontend Development & Frameworks
+### 💻 Programming Languages
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+
+</div>
+
+### 🎨 Frontend Development & Frameworks
 
 <div align="center">
 
@@ -45,7 +57,16 @@ I enjoy turning complex problems into **simple, beautiful, and intuitive solutio
 
 </div>
 
-### 🔌 Backend Development & Database Services
+### 🖥️ Desktop & Cross-Platform
+
+<div align="center">
+
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge\&logo=electron\&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge\&logo=tauri\&logoColor=black)
+
+</div>
+
+### 🔌 Backend Development
 
 <div align="center">
 
@@ -54,15 +75,20 @@ I enjoy turning complex problems into **simple, beautiful, and intuitive solutio
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-<br>
+</div>
+
+### 🗄️ Databases
+
+<div align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
 
 </div>
 
-### ⚙️ Development Tools
+### ⚙️ DevOps & Development Tools
 
 <div align="center">
 
@@ -70,8 +96,20 @@ I enjoy turning complex problems into **simple, beautiful, and intuitive solutio
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge\&logo=markdown\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge\&logo=markdown\&logoColor=white)
+
+</div>
+
+### 🧰 Other Technologies
+
+<div align="center">
+
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge\&logo=yarn\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge\&logo=webpack\&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
 </div>
 
@@ -87,11 +125,11 @@ Anime is a huge part of my personality and creativity.
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg" width="120"> | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21711-EQN4sCIXRhKf.png" width="120"> | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1-GCsPm7waJ4kS.png" width="120"> | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-tIUXF2gfU8Sg.jpg" width="120"> | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-kUgkcrfOrkUM.jpg" width="120"> | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20665-TLgkL8T8IRFd.png" width="120"> |
 
+|                                                 🗡️ Demon Slayer                                                |                                                 ⚡ Solo Leveling                                                 |                                           🎓 Assassination Classroom                                           |                                                  🚀 Deca-Dence                                                  |                                                    🏫 GTO                                                    |                                            ⚔️ Fullmetal Alchemist                                            |
+| :-------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-WBsBl0ClmgYL.jpg" width="120"> | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176496-9BDMjAZGEbq4.png" width="120"> | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20755-dWrhs569YGUO.jpg" width="120"> | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110353-XGYSsii7qJeK.png" width="120"> | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx245-NcQAyTipUMeO.jpg" width="120"> | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121-zjmixZ428Mwv.png" width="120"> |
+
 </div>
-
-### ⚔️ More Favorites
-
-**Demon Slayer** · **Solo Leveling** · **Assassination Classroom** · **Deca-Dence** · **GTO** · **Fullmetal Alchemist**
 
 ---
 
@@ -110,6 +148,10 @@ Anime is a huge part of my personality and creativity.
 |                                          🌸 5 Centimeters per Second                                          |                                                  💫 Your Name                                                  |                                                    🌌 Suzume                                                    |
 | :-----------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
 | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1689-rJKhjLEjQHSy.jpg" width="140"> | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21519-SUo3ZQuCbYhJ.png" width="140"> | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142770-dDaDIRnsv5jN.jpg" width="140"> |
+
+|                                                     🌸 Mirai                                                    |                                             🌿 The Garden of Words                                             |                                         💜 Violet Evergarden: The Movie                                         |
+| :-------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
+| <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100749-7Tptl7EAMAWH.jpg" width="140"> | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16782-qpFGk18UqaHn.jpg" width="140"> | <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103047-odblDHHEdehK.jpg" width="140"> |
 
 </div>
 
@@ -134,9 +176,7 @@ Anime is a huge part of my personality and creativity.
 <div align="center">
 
 <a href="https://github.com/az4if">
-
 <img src="https://github-widgetbox.vercel.app/api/profile?username=az4if&data=followers,repositories,stars,commits&theme=carbon" alt="GitHub WidgetBox" />
-
 </a>
 
 <br/><br/>
@@ -147,6 +187,7 @@ Anime is a huge part of my personality and creativity.
   <source media="(prefers-color-scheme: dark)" srcset="https://mygithubinsights.vercel.app/api/insight?username=az4if&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&heatmap=false&toprepos=false&achievements=false">
   <source media="(prefers-color-scheme: light)" srcset="https://mygithubinsights.vercel.app/api/insight?username=az4if&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&heatmap=false&toprepos=false&achievements=false">
   <img src="https://mygithubinsights.vercel.app/api/insight?username=az4if&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&heatmap=false&toprepos=false&achievements=false" alt="GitHub Card" width="850" />
+
 </picture>
 
 </a>
@@ -187,7 +228,7 @@ Anime is a huge part of my personality and creativity.
 
 ---
 
-## 🌙 Anime Corner
+## 🌌 Anime Corner
 
 <div align="center">
 
