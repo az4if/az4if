@@ -48,7 +48,8 @@ jobs:
           plugin_activity_limit: 3
           plugin_activity_load: 300
           plugin_activity_visibility: all
-          plugin_activity_skipped: az4if/mini-dep-bot, az4if/anime-lists, az4if/anime-lists-fribb
+          # plugin_activity_skipped: az4if/mini-dep-bot, az4if/anime-lists, az4if/anime-lists-fribb
+          plugin_activity_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot], actions-user, mini-dep-bot[bot]
 
           # --- AniList (your currently-watching anime) ---
           plugin_anilist: yes
