@@ -24,6 +24,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           retries: 3
           retries_delay: 300
+          debug: false
 
           # --- Core ---
           user: az4if
@@ -41,7 +42,7 @@ jobs:
           plugin_achievements_threshold: C
 
           # --- Recent activity ---
-          plugin_activity: yes
+          plugin_activity: no
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_limit: 3
