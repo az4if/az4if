@@ -18,9 +18,11 @@ jobs:
       - uses: actions/checkout@v4
       - uses: joshmgross/guestbook@main
         with:
-          issue: 1              # the guestbook issue must be Issue #1 in this repo
+          issue: 1
+          # the guestbook issue must be Issue #1 in this repo
+          # Only comments from users listed below get pulled into the README
           approvers: |
-            az4if                # only comments from users listed here get pulled into the README
+            az4if
           guestbook-path: README.md
       - name: Commit guestbook update
         run: |
