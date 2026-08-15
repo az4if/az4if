@@ -89,7 +89,6 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_details: percentage, lines
           plugin_languages_threshold: 0%
-          plugin_languages_skipped: az4if/mini-dep-bot, az4if/anime-lists, az4if/anime-lists-fribb
 
           # --- Lines changed ---
           plugin_lines: yes
