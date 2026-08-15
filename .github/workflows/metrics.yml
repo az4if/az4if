@@ -44,7 +44,6 @@ jobs:
           # --- Recent activity ---
           plugin_activity: yes
           plugin_activity_days: 14
-          plugin_activity_filter: all
           plugin_activity_limit: 3
           plugin_activity_load: 300
           plugin_activity_visibility: all
@@ -58,7 +57,7 @@ jobs:
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: watching, characters
           plugin_anilist_shuffle: yes
-          plugin_anilist_user: Az4iF   # TODO: confirm this is your real AniList username
+          plugin_anilist_user: Az4iF
 
           # --- Coding habits ---
           plugin_habits: yes
