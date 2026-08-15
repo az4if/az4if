@@ -2,7 +2,7 @@
 name: Metrics
 
 on:
-  schedule: [{cron: "0 * * * *"}]   # every hour
+  schedule: [{cron: "0 * * * *"}]
   workflow_dispatch:
   push: {branches: ["main"]}
 
@@ -20,7 +20,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           retries: 3
           retries_delay: 300
-          debug: yes   # TEMP: prints full per-plugin error detail in the Actions log - remove once fixed
 
           # --- Core ---
           user: az4if
@@ -32,31 +31,21 @@ jobs:
           config_twemoji: yes
 
           # --- Achievements ---
-          # TEMPORARILY DISABLED: the plugin's mandatory setup query still requests GitHub's
-          # now-fully-removed "Projects (classic)" API and hard-crashes. This isn't something
-          # plugin_achievements_ignored can route around (that only filters AFTER the setup
-          # query succeeds). There's an open, unmerged upstream PR ("Migrate Achievements
-          # plugin to Projects V2 API") that fixes this properly - re-enable once a metrics
-          # release ships with it. Check https://github.com/lowlighter/metrics/releases
-          plugin_achievements: no
-          # plugin_achievements_display: detailed
-          # plugin_achievements_secrets: yes
-          # plugin_achievements_threshold: C
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
 
           # --- Recent activity ---
           plugin_activity: yes
           plugin_activity_days: 14
-          # Reverted to "all" - narrowing this to exclude push did NOT fix the crash,
-          # so it isn't event-type related after all.
           plugin_activity_filter: all
           plugin_activity_limit: 3
           plugin_activity_load: 300
           plugin_activity_visibility: all
-          # az4if/mini-dep-bot: didn't fully fix it on its own, kept anyway (still low-risk)
-          # Fribb/anime-lists: BEST GUESS based on debug log - "anime-lists" was the last repo
-          # filtered right before the crash, in both debug runs. CONFIRM THE REAL OWNER before
-          # trusting this - check github.com/az4if?tab=overview for recent anime-lists activity.
-          plugin_activity_skipped: az4if/mini-dep-bot, Fribb/anime-lists
+          # optional: mini-dep-bot's automated activity may also be tripping this plugin's error -
+          # not confirmed, but low-risk to try. Remove this line if it doesn't help.
+          plugin_activity_skipped: az4if/mini-dep-bot
 
           # --- AniList (your currently-watching anime) ---
           plugin_anilist: yes
@@ -75,10 +64,8 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
-          # mini-dep-bot's automated commits crash this plugin (unattributed bot author) - skip it.
-          # Also added Fribb/anime-lists (same guess as activity - Habits shows the identical
-          # "Cannot destructure property 'author' of 'undefined'" crash, so may share a cause)
-          plugin_habits_skipped: az4if/mini-dep-bot, Fribb/anime-lists
+          # mini-dep-bot's automated commits crash this plugin (unattributed bot author) - skip it
+          plugin_habits_skipped: az4if/mini-dep-bot
 
           # --- Contribution calendar ---
           plugin_isocalendar: yes
