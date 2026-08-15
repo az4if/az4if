@@ -32,30 +32,31 @@ jobs:
           config_twemoji: yes
 
           # --- Achievements ---
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
-          # "Manager" achievement queries GitHub's now-fully-removed Projects (classic) API,
-          # which 404s and crashes the whole plugin. Ignoring it (matching orsnaro's working
-          # config) is the fix until lowlighter/metrics ships an upstream patch. The rest of
-          # this list is copied from orsnaro's config too, which we confirmed renders with
-          # zero errors - try trimming it back down later once Manager alone is confirmed fixed.
-          plugin_achievements_ignored: Developer, Influencer, Follower, Chatter, Manager, Reviewer
+          # TEMPORARILY DISABLED: the plugin's mandatory setup query still requests GitHub's
+          # now-fully-removed "Projects (classic)" API and hard-crashes. This isn't something
+          # plugin_achievements_ignored can route around (that only filters AFTER the setup
+          # query succeeds). There's an open, unmerged upstream PR ("Migrate Achievements
+          # plugin to Projects V2 API") that fixes this properly - re-enable once a metrics
+          # release ships with it. Check https://github.com/lowlighter/metrics/releases
+          plugin_achievements: no
+          # plugin_achievements_display: detailed
+          # plugin_achievements_secrets: yes
+          # plugin_achievements_threshold: C
 
           # --- Recent activity ---
           plugin_activity: yes
           plugin_activity_days: 14
-          # Was "all", which includes push events - the plugin's own README example
-          # deliberately excludes push from plugin_activity_filter, and the crash
-          # ("Cannot read properties of undefined (reading 'filter')") matches the same
-          # "commit has no author info" bug class as the Habits plugin crash below.
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+          # Reverted to "all" - narrowing this to exclude push did NOT fix the crash,
+          # so it isn't event-type related after all.
+          plugin_activity_filter: all
           plugin_activity_limit: 3
           plugin_activity_load: 300
           plugin_activity_visibility: all
-          # kept - still useful even though it didn't fully fix this on its own
-          plugin_activity_skipped: az4if/mini-dep-bot
+          # az4if/mini-dep-bot: didn't fully fix it on its own, kept anyway (still low-risk)
+          # Fribb/anime-lists: BEST GUESS based on debug log - "anime-lists" was the last repo
+          # filtered right before the crash, in both debug runs. CONFIRM THE REAL OWNER before
+          # trusting this - check github.com/az4if?tab=overview for recent anime-lists activity.
+          plugin_activity_skipped: az4if/mini-dep-bot, Fribb/anime-lists
 
           # --- AniList (your currently-watching anime) ---
           plugin_anilist: yes
@@ -74,8 +75,10 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
-          # mini-dep-bot's automated commits crash this plugin (unattributed bot author) - skip it
-          plugin_habits_skipped: az4if/mini-dep-bot
+          # mini-dep-bot's automated commits crash this plugin (unattributed bot author) - skip it.
+          # Also added Fribb/anime-lists (same guess as activity - Habits shows the identical
+          # "Cannot destructure property 'author' of 'undefined'" crash, so may share a cause)
+          plugin_habits_skipped: az4if/mini-dep-bot, Fribb/anime-lists
 
           # --- Contribution calendar ---
           plugin_isocalendar: yes
