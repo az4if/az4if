@@ -109,11 +109,11 @@ Sign my guestbook at [az4if/az4if#1](https://github.com/az4if/az4if/issues/1) (�
 
 <div align="center">
 
-> *"Keep building. Keep learning. Keep moving forward."*
+> *“Build with curiosity. Learn with purpose. Move with consistency.”*
 
 <br>
 
-### `Code • Create • Listen • Watch Anime • Repeat`
+### `💻 Code • 🎨 Create • 🎧 Listen • 🍥 Anime • 🔁 Repeat`
 
 <br>
 
