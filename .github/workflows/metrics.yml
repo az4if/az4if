@@ -12,7 +12,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      # Switched from lowlighter/metrics@latest (v3.34) to gh-metrics/metrics@master:
+      # - fixes Achievements crash (GitHub deprecated "Projects classic" GraphQL API)
+      # - fixes Activity crash (undefined event properties)
+      # - fixes Habits crash (undefined commit author)
+      - uses: gh-metrics/metrics@master
         with:
           # Personal access token — see SETUP_GUIDE.md for how to create this
           # and add it as a repo secret named METRICS_TOKEN.
@@ -20,7 +24,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           retries: 3
           retries_delay: 300
-          debug: true
 
           # --- Core ---
           user: az4if
@@ -36,7 +39,6 @@ jobs:
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
-          plugin_achievements_skipped: az4if/mini-dep-bot, az4if/anime-lists, az4if/anime-lists-fribb
 
           # --- Recent activity ---
           plugin_activity: yes
@@ -45,8 +47,6 @@ jobs:
           plugin_activity_limit: 3
           plugin_activity_load: 300
           plugin_activity_visibility: all
-          # optional: mini-dep-bot's automated activity may also be tripping this plugin's error -
-          # not confirmed, but low-risk to try. Remove this line if it doesn't help.
           plugin_activity_skipped: az4if/mini-dep-bot, az4if/anime-lists, az4if/anime-lists-fribb
 
           # --- AniList (your currently-watching anime) ---
