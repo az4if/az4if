@@ -19,7 +19,8 @@ jobs:
           # Required scope: public_repo (or repo). Optional: read:org, read:user.
           token: ${{ secrets.METRICS_TOKEN }}
           retries: 3
-          retries_delay: 300
+          retries_delay: 15
+          debug: yes
 
           # --- Core ---
           user: az4if
