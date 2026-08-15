@@ -37,11 +37,7 @@ Sign my guestbook at [az4if/az4if#1](https://github.com/az4if/az4if/issues/1) (�
 5. 🎉 Merged PR [#19](https://github.com/walterwhite-69/Anivexa-API/pull/19) in [walterwhite-69/Anivexa-API](https://github.com/walterwhite-69/Anivexa-API)
 <!--END_SECTION:activity-->
 
----
-
-<details open>
-    <summary><h2 class="dark" style="margin:0 0 0.3em 0;color:#4527a0;font-size:1.08em;">🛠️ Frameworks &amp; Platforms I use</h2></summary>
-    <div>
+## Platforms I use
 
 **Languages**
 <div style="display:flex;flex-wrap:wrap;gap:0.7em;margin-bottom:0.8em;">
@@ -109,27 +105,5 @@ Sign my guestbook at [az4if/az4if#1](https://github.com/az4if/az4if/issues/1) (�
   <img src="https://img.shields.io/badge/Proteus-00599C?style=flat&logo=proteus&logoColor=white" alt="Proteus" style="height:26px;">
 </div>
 
-  </div>
-</details>
 
----
 
-<details open>
-    <summary><h2 class="dark" style="margin:0 0 0.3em 0;color:#4527a0;font-size:1.08em;">🔗 Get in touch with Me</h2></summary>
-
-&nbsp; &nbsp; [![Discord](https://img.shields.io/badge/Discord%20-%20%23694D99?style=flat-square&logo=discord)](https://discord.com/invite/Y23B7R3FPq) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%20%233d85c6?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/omar-rs)
-[![Twitter Follow](https://img.shields.io/twitter/follow/orsnarol?style=social)](https://x.com/orsnarol)
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://ors.strangled.net/about)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=omar1xd@gmail.com)
-[![Youtube](https://img.shields.io/badge/YouTube-red?style=flat-square&&logo=youtube&logoColor=red&color=white)](https://www.youtube.com/channel/UC1_2q6N_ulxYp-Nby0sFUaA)
-[![CODECHEF](https://img.shields.io/badge/CODECHEF-red?style=flat-square&logo=codechef&logoColor=68391b&color=white)](https://www.codechef.com/users/omarrs)
-[![Vjudge](https://img.shields.io/badge/Vjudge-red?style=flat-square&logo=circle&logoColor=yellow&color=white)](https://vjudge.net/user/orsnarol)
-[![GitHubGist](https://img.shields.io/badge/GitHub%20Gist-black?style=flat-square&logo=gitbook&logoColor=white)](https://gist.github.com/orsnaro)
-[![HackerRank](https://img.shields.io/badge/HackerRank-red?style=flat-square&logo=hackerrank&logoColor=14ab4a&color=000000)](https://www.hackerrank.com/Omar1xd)
-[![CODEFORCES](https://img.shields.io/badge/CodeForces-red?style=flat-square&logo=codeforces&logoColor=red&color=black)](https://codeforces.com/profile/omarrs)
-[![LEETCODE](https://img.shields.io/badge/LeetCode-yellow?style=flat-square&logo=leetcode&logoColor=yellow&color=black)](https://leetcode.com/u/omar_rs/)
-
-</details>
-
----
