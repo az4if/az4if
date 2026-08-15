@@ -105,7 +105,6 @@ Sign my guestbook at [az4if/az4if#1](https://github.com/az4if/az4if/issues/1) (ï
   <img src="https://img.shields.io/badge/Proteus-00599C?style=flat&logo=proteus&logoColor=white" alt="Proteus" style="height:26px;">
 </div>
 
----
 ## Final Words
 
 <div align="center">
