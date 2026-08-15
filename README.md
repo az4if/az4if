@@ -105,3 +105,25 @@ Sign my guestbook at [az4if/az4if#1](https://github.com/az4if/az4if/issues/1) (�
   <img src="https://img.shields.io/badge/Proteus-00599C?style=flat&logo=proteus&logoColor=white" alt="Proteus" style="height:26px;">
 </div>
 
+---
+## Final Words
+
+<div align="center">
+
+> *"Keep building. Keep learning. Keep moving forward."*
+
+<br>
+
+### `Code • Create • Listen • Watch Anime • Repeat`
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=az4if&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views">
+
+<br><br>
+
+[![Last Updated](https://img.shields.io/github/last-commit/az4if/az4if/main?label=Last%20Updated&style=flat&logo=github&logoColor=white&color=7C3AED)](https://github.com/az4if/az4if/commits)
+
+<br><br>
+
+**⭐ Thanks for visiting my profile!**
