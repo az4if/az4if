@@ -20,6 +20,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           retries: 3
           retries_delay: 300
+          debug: true
 
           # --- Core ---
           user: az4if
