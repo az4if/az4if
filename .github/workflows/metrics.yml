@@ -20,6 +20,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           retries: 3
           retries_delay: 300
+          debug: yes   # TEMP: prints full per-plugin error detail in the Actions log - remove once fixed
 
           # --- Core ---
           user: az4if
