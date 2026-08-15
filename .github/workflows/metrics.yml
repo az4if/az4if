@@ -19,8 +19,7 @@ jobs:
           # Required scope: public_repo (or repo). Optional: read:org, read:user.
           token: ${{ secrets.METRICS_TOKEN }}
           retries: 3
-          retries_delay: 15
-          debug: yes
+          retries_delay: 300
 
           # --- Core ---
           user: az4if
@@ -44,6 +43,9 @@ jobs:
           plugin_activity_limit: 3
           plugin_activity_load: 300
           plugin_activity_visibility: all
+          # optional: mini-dep-bot's automated activity may also be tripping this plugin's error -
+          # not confirmed, but low-risk to try. Remove this line if it doesn't help.
+          plugin_activity_skipped: az4if/mini-dep-bot
 
           # --- AniList (your currently-watching anime) ---
           plugin_anilist: yes
@@ -62,6 +64,8 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
+          # mini-dep-bot's automated commits crash this plugin (unattributed bot author) - skip it
+          plugin_habits_skipped: az4if/mini-dep-bot
 
           # --- Contribution calendar ---
           plugin_isocalendar: yes
@@ -87,6 +91,9 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
+          # mini-dep-bot's automated commits crash this plugin (unattributed bot author),
+          # which in turn crashes the whole render (this is THE fix for the hang) - skip it
+          plugin_lines_skipped: az4if/mini-dep-bot
 
           # --- Pinned/starred repos ---
           plugin_repositories: yes
