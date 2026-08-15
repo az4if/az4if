@@ -109,7 +109,7 @@ Sign my guestbook at [az4if/az4if#1](https://github.com/az4if/az4if/issues/1) (�
 
 <div align="center">
 
-> *“Build with curiosity. Learn with purpose. Move with consistency.”*
+> *“True grace is beautiful in its imperfection, honest in its emotion, freed by its own reality.”*
 
 <br>
 
