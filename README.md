@@ -37,7 +37,7 @@ Sign my guestbook at [az4if/az4if#1](https://github.com/az4if/az4if/issues/1) (ï
 5. ðŸŽ‰ Merged PR [#19](https://github.com/walterwhite-69/Anivexa-API/pull/19) in [walterwhite-69/Anivexa-API](https://github.com/walterwhite-69/Anivexa-API)
 <!--END_SECTION:activity-->
 
-## Platforms I use
+## Frameworks & Platforms I Use
 
 **Languages**
 <div style="display:flex;flex-wrap:wrap;gap:0.7em;margin-bottom:0.8em;">
@@ -104,6 +104,4 @@ Sign my guestbook at [az4if/az4if#1](https://github.com/az4if/az4if/issues/1) (ï
   <img src="https://img.shields.io/badge/VR-009688?style=flat&logo=oculus&logoColor=white" alt="VR" style="height:26px;">
   <img src="https://img.shields.io/badge/Proteus-00599C?style=flat&logo=proteus&logoColor=white" alt="Proteus" style="height:26px;">
 </div>
-
-
 
