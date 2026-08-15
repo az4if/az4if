@@ -12,9 +12,7 @@
 Sign my guestbook at [az4if/az4if#1](https://github.com/az4if/az4if/issues/1) (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
 <!--START:guestbook-->
-> Signed by jsmat0m :D
-> 
-> 
+> Signed by JSMATOM :3 :D
 -[@jsmat0m](https://github.com/jsmat0m)
 
 > hello hello ~~
