@@ -77,11 +77,11 @@
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/az4if/mini-dep-bot/issues/25#issuecomment-5304291819) in [az4if/mini-dep-bot](https://github.com/az4if/mini-dep-bot)
-2. 🔒 Closed issue [#25](https://github.com/az4if/mini-dep-bot/issues/25) in [az4if/mini-dep-bot](https://github.com/az4if/mini-dep-bot)
-3. 🗣 Commented on [#25](https://github.com/az4if/mini-dep-bot/issues/25#issuecomment-5304276194) in [az4if/mini-dep-bot](https://github.com/az4if/mini-dep-bot)
-4. ℹ️ Unassigned issue [#1](https://github.com/az4if/az4if/issues/1) in [az4if/az4if](https://github.com/az4if/az4if)
-5. ℹ️ Assigned issue [#1](https://github.com/az4if/az4if/issues/1) in [az4if/az4if](https://github.com/az4if/az4if)
+1. ❗ Opened issue [#3](https://github.com/hitarth-gg/zenshin-API/issues/3) in [hitarth-gg/zenshin-API](https://github.com/hitarth-gg/zenshin-API)
+2. 🗣 Commented on [#25](https://github.com/az4if/mini-dep-bot/issues/25#issuecomment-5304291819) in [az4if/mini-dep-bot](https://github.com/az4if/mini-dep-bot)
+3. 🔒 Closed issue [#25](https://github.com/az4if/mini-dep-bot/issues/25) in [az4if/mini-dep-bot](https://github.com/az4if/mini-dep-bot)
+4. 🗣 Commented on [#25](https://github.com/az4if/mini-dep-bot/issues/25#issuecomment-5304276194) in [az4if/mini-dep-bot](https://github.com/az4if/mini-dep-bot)
+5. ℹ️ Unassigned issue [#1](https://github.com/az4if/az4if/issues/1) in [az4if/az4if](https://github.com/az4if/az4if)
 <!--END_SECTION:activity-->
 
 ## Guestbook
