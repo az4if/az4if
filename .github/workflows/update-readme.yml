@@ -15,6 +15,34 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Refresh "last commit" badge
+        run: |
+          now=$(date -u +%s)
+          last=$(git log -1 --format=%ct)
+          diff=$(( now - last ))
+
+          if   [ $diff -lt 60 ];      then msg="just now"
+          elif [ $diff -lt 3600 ];    then m=$(( diff / 60 ));   [ $m -eq 1 ] && msg="$m minute ago" || msg="$m minutes ago"
+          elif [ $diff -lt 86400 ];   then h=$(( diff / 3600 )); [ $h -eq 1 ] && msg="$h hour ago"   || msg="$h hours ago"
+          elif [ $diff -lt 2592000 ]; then d=$(( diff / 86400 )); [ $d -eq 1 ] && msg="$d day ago"   || msg="$d days ago"
+          else mo=$(( diff / 2592000 )); [ $mo -eq 1 ] && msg="$mo month ago" || msg="$mo months ago"
+          fi
+
+          mkdir -p badges
+          printf '{"schemaVersion":1,"label":"Last Commit","message":"%s","color":"7C3AED"}\n' "$msg" > badges/last-commit.json
+
+      - name: Commit changes
+        run: |
+          if [[ `git status --porcelain` ]]; then
+            git config --local user.email "actions@github.com"
+            git config --local user.name "${{ github.actor }}"
+            git add README.md badges/last-commit.json
+            git commit -m "🔄 Update activity + last-commit badge"
+            git push
+          fi
