@@ -125,3 +125,8 @@ Sign my guestbook at [az4if/az4if#1](https://github.com/az4if/az4if/issues/1) (Ô
 <br><br>
 
 **‚≠ê Thanks for visiting my profile!**
+<a href="https://github.com/az4if">
+<div align="center">
+  <img src="https://github.com/az4if/az4if/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+</div>
+</a>
