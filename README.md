@@ -99,10 +99,10 @@ Sign my guestbook at [az4if/az4if#1](https://github.com/az4if/az4if/issues/1) (�
 -[@kubaokuma](https://github.com/kubaokuma)
 
 > Signed 🖊️ 
--[@drunksensei99](https://github.com/drunksensei99)
+-[@DrunkSensei](https://github.com/DrunkSensei)
 
 > Gooo Goo Gaaa Gaa 👶 
--[@rixikox-ux](https://github.com/rixikox-ux)
+-[@rixikox](https://github.com/rixikox)
 <!--END:guestbook-->
 
 ## Final Words
