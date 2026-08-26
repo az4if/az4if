@@ -266,9 +266,7 @@ Anime isn't just something I watch — it's a huge part of my personality.
 <br><br>
 
 <a href="https://yourinsights.vercel.app">
-
-<img src="https://mygithubinsights.vercel.app/api/insight?username=az4if&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&heatmap=false&toprepos=false&achievements=false" alt="GitHub Insights" width="850">
-
+    <img src="https://yourinsights.vercel.app/api/insight?username=nishatrhythm&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" width="100%" />
 </a>
 
 </div>
