@@ -270,21 +270,7 @@ Anime isn't just something I watch — it's a huge part of my personality.
 # 🐍 Contribution Snake
 
 <div align="center">
-
-<a href="https://github.com/az4if">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
-
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
-
-<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/MarcUs7i/MarcUs7i/output/snake.svg">
-
-</picture>
-
-</a>
-
+  <a href="https://github.com/az4if"><img src="https://github.com/az4if/az4if/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/></a>
 </div>
 
 ---
