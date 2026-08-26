@@ -278,17 +278,11 @@ Anime isn't just something I watch — it's a huge part of my personality.
 # 🌐 Connect With Me
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/az4if)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-
-[![Twitter / X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yourhandle)
-
-[![Discord](https://img.shields.io/badge/Discord-_azif-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-
-[![AniList](https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=anilist&logoColor=white)](https://anilist.co/user/Az4iF)
-
+  <a href="https://github.com/az4if"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/azif"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/azif"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-_azif-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://anilist.co/user/Az4iF"><img src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=anilist&logoColor=white" /></a>
 </div>
 
 ---
