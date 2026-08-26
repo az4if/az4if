@@ -1,0 +1,30 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # Runs daily at 12:00 AM Bangladesh Time (UTC+6)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Contribution Snake
+        uses: Platane/snk@v3.3.0
+        with:
+          github_user_name: az4if
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-colored.svg?color_snake=#000000&color_dots=#727272,#0078d7,#107c10,#ffb900,#d83b01
+
+      - name: Push Snake to GitHub
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: output
+          folder: dist
