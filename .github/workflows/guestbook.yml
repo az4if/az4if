@@ -3,20 +3,12 @@ name: Update Guestbook
 on:
   push:
     branches: [ main ]
-    paths-ignore:
-      - 'README.md'
-      - 'badges/**'
-      - 'github-metrics.svg'
   schedule:
-    - cron: "10 * * * *"   # every hour, offset :10 so it doesn't collide with metrics (:00) or update-readme (:20/:50)
+    - cron: "0 */1 * * *"   # every hour
   workflow_dispatch:
 
 permissions:
   contents: write
-
-concurrency:
-  group: main-branch-writes
-  cancel-in-progress: false
 
 jobs:
   main:
@@ -39,6 +31,5 @@ jobs:
             git config --local user.name "${{ github.actor }}"
             git add README.md
             git commit -m "✏ Update guestbook"
-            git pull --rebase origin main
             git push
           fi
