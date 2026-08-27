@@ -2,18 +2,9 @@
 name: Metrics
 
 on:
-  schedule: [{cron: "0 * * * *"}]   # every hour, on the hour (kept as-is; guestbook/update-readme/badge are now offset around it)
+  schedule: [{cron: "0 * * * *"}]   # runs every hour
   workflow_dispatch:
-  push:
-    branches: ["main"]
-    paths-ignore:
-      - 'README.md'
-      - 'badges/**'
-      - 'github-metrics.svg'
-
-concurrency:
-  group: main-branch-writes
-  cancel-in-progress: false
+  push: {branches: ["main"]}
 
 jobs:
   github-metrics:
