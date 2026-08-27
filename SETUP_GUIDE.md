@@ -43,7 +43,7 @@ reference them safely as `secrets.NAME`, which keeps them encrypted and out of t
 
 Scheduled workflows won't wait for their first cron tick — trigger them by hand the first time:
 
-- **Actions** tab → run **Update README - Recent Activity**, **Update Last Commit Badge**, **Update Guestbook**, **Metrics**, and **Generate Snake Animation**
+- **Actions** tab → run **Update README - Recent Activity**, **Update Guestbook**, **Metrics**, and **Generate Snake Animation**
   (use "Run workflow" on each)
 
 ## Notes
