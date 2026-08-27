@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: "0 18 * * *"   # Runs daily at 18:00
   workflow_dispatch:
-  push: {branches: ["output"]}
+  push: {branches: ["main"]}
 
 jobs:
   build:
