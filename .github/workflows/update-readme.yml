@@ -2,11 +2,15 @@ name: Update README - Recent Activity
 
 on:
   schedule:
-    - cron: '*/30 * * * *'   # every 30 minutes
+    - cron: '20,50 * * * *'   # every 30 minutes, offset :20/:50 so it doesn't land on metrics' (:00) or guestbook's (:10) slot
   workflow_dispatch:          # lets you trigger it manually from the Actions tab
 
 permissions:
   contents: write
+
+concurrency:
+  group: main-branch-writes
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -29,5 +33,6 @@ jobs:
             git config --local user.name "${{ github.actor }}"
             git add README.md
             git commit -m "🔄 Update recent activity"
+            git pull --rebase origin main
             git push
           fi

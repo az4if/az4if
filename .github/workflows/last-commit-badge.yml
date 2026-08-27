@@ -2,11 +2,15 @@ name: Update Last Commit Badge
 
 on:
   schedule:
-    - cron: '*/5 * * * *'   # every 5 minutes
+    - cron: '3-59/5 * * * *'   # every 5 minutes, offset by 3 (:03,:08,...,:58) so it never lands on the same minute as guestbook/metrics/update-readme
   workflow_dispatch:          # lets you trigger it manually from the Actions tab
 
 permissions:
   contents: write
+
+concurrency:
+  group: main-branch-writes
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -42,5 +46,6 @@ jobs:
             git config --local user.name "github-actions[bot]"
             git add badges/last-commit.json
             git commit -m "🔄 Update last-commit badge"
+            git pull --rebase origin main
             git push
           fi

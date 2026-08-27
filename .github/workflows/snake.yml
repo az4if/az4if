@@ -4,7 +4,12 @@ on:
   schedule:
     - cron: "0 18 * * *"   # Runs daily at 18:00
   workflow_dispatch:
-  push: {branches: ["main"]}
+  push:
+    branches: ["main"]
+    paths-ignore:
+      - 'README.md'
+      - 'badges/**'
+      - 'github-metrics.svg'
 
 jobs:
   build:
