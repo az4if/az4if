@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "15 18 * * *"   # Runs daily at 18:15, offset off :00 so it never shares a minute with metrics.yml's hourly run
+    - cron: "*/45 * * * *"   # Runs every 45 minutes
   workflow_dispatch:
   push: {branches: ["main"]}
 
