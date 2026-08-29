@@ -77,7 +77,7 @@
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Database Dump - August 2026 - Week 34](https://github.com/az4if/Anime-Public-ID-Mapper/releases/tag/db-dump) in [az4if/Anime-Public-ID-Mapper](https://github.com/az4if/Anime-Public-ID-Mapper)
+1. 🚀 Published release [Anime Database Dump - August 2026 - Week 34](https://github.com/az4if/Anime-Public-ID-Mapper/releases/tag/db-dump) in [az4if/Anime-Public-ID-Mapper](https://github.com/az4if/Anime-Public-ID-Mapper)
 2. ❗ Opened issue [#3](https://github.com/hitarth-gg/zenshin-API/issues/3) in [hitarth-gg/zenshin-API](https://github.com/hitarth-gg/zenshin-API)
 3. 🗣 Commented on [#25](https://github.com/az4if/mini-dep-bot/issues/25#issuecomment-5304291819) in [az4if/mini-dep-bot](https://github.com/az4if/mini-dep-bot)
 4. 🔒 Closed issue [#25](https://github.com/az4if/mini-dep-bot/issues/25) in [az4if/mini-dep-bot](https://github.com/az4if/mini-dep-bot)
