@@ -79,7 +79,7 @@
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#23](https://github.com/walterwhite-69/Miruro-API/pull/23) in [walterwhite-69/Miruro-API](https://github.com/walterwhite-69/Miruro-API)
 2. 💪 Opened PR [#23](https://github.com/walterwhite-69/Miruro-API/pull/23) in [walterwhite-69/Miruro-API](https://github.com/walterwhite-69/Miruro-API)
-3. 🗣 Commented on [#3](https://github.com/hitarth-gg/zenshin-API/issues/3#issuecomment-5962809733) in [hitarth-gg/zenshin-API](https://github.com/hitarth-gg/zenshin-API)
+3. 🗣 Commented on [#3](https://github.com/hitarth-gg/zenshin-API/issues/3#issuecomment-5962807198) in [hitarth-gg/zenshin-API](https://github.com/hitarth-gg/zenshin-API)
 4. 🗣 Commented on [#3](https://github.com/hitarth-gg/zenshin-API/issues/3#issuecomment-5962807198) in [hitarth-gg/zenshin-API](https://github.com/hitarth-gg/zenshin-API)
 5. 🗣 Commented on [#25](https://github.com/az4if/mini-dep-bot/issues/25#issuecomment-5304276194) in [az4if/mini-dep-bot](https://github.com/az4if/mini-dep-bot)
 <!--END_SECTION:activity-->
