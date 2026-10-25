@@ -77,11 +77,11 @@
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/hitarth-gg/zenshin-API/issues/3#issuecomment-6204308929) in [hitarth-gg/zenshin-API](https://github.com/hitarth-gg/zenshin-API)
-2. ❌ Closed PR [#23](https://github.com/walterwhite-69/Miruro-API/pull/23) in [walterwhite-69/Miruro-API](https://github.com/walterwhite-69/Miruro-API)
-3. 💪 Opened PR [#23](https://github.com/walterwhite-69/Miruro-API/pull/23) in [walterwhite-69/Miruro-API](https://github.com/walterwhite-69/Miruro-API)
-4. 🗣 Commented on [#3](https://github.com/hitarth-gg/zenshin-API/issues/3#issuecomment-5962807198) in [hitarth-gg/zenshin-API](https://github.com/hitarth-gg/zenshin-API)
-5. 🗣 Commented on [#25](https://github.com/az4if/mini-dep-bot/issues/25#issuecomment-5304276194) in [az4if/mini-dep-bot](https://github.com/az4if/mini-dep-bot)
+1. 🚀 Published release [2026-43](https://github.com/az4if/anime-offline-database/releases/tag/2026-43) in [az4if/anime-offline-database](https://github.com/az4if/anime-offline-database)
+2. 🗣 Commented on [#3](https://github.com/hitarth-gg/zenshin-API/issues/3#issuecomment-6204308929) in [hitarth-gg/zenshin-API](https://github.com/hitarth-gg/zenshin-API)
+3. ❌ Closed PR [#23](https://github.com/walterwhite-69/Miruro-API/pull/23) in [walterwhite-69/Miruro-API](https://github.com/walterwhite-69/Miruro-API)
+4. 💪 Opened PR [#23](https://github.com/walterwhite-69/Miruro-API/pull/23) in [walterwhite-69/Miruro-API](https://github.com/walterwhite-69/Miruro-API)
+5. 🗣 Commented on [#3](https://github.com/hitarth-gg/zenshin-API/issues/3#issuecomment-5962807198) in [hitarth-gg/zenshin-API](https://github.com/hitarth-gg/zenshin-API)
 <!--END_SECTION:activity-->
 
 ## Guestbook
