@@ -1,8 +1,6 @@
 # Setup Guide
 
-This mirrors nattadasu's original repo structure exactly: a name header, an auto-generated
-metrics dashboard, a guestbook, and a live activity feed. Files alone don't activate any of
-it — GitHub needs a few one-time settings. Do these in order.
+Do these in order.
 
 ## 1. Create the special repo
 
