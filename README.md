@@ -77,11 +77,11 @@
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/Teramoto669/anikoto-API/pull/5) in [Teramoto669/anikoto-API](https://github.com/Teramoto669/anikoto-API)
-2. 🚀 Published release [v1.0.0 - PG Restore - Beta](https://github.com/az4if/PG-Restore/releases/tag/v1.0.0) in [az4if/PG-Restore](https://github.com/az4if/PG-Restore)
-3. ❌ Closed PR [#23](https://github.com/walterwhite-69/Miruro-API/pull/23) in [walterwhite-69/Miruro-API](https://github.com/walterwhite-69/Miruro-API)
-4. 💪 Opened PR [#23](https://github.com/walterwhite-69/Miruro-API/pull/23) in [walterwhite-69/Miruro-API](https://github.com/walterwhite-69/Miruro-API)
-5. 🗣 Commented on [#3](https://github.com/hitarth-gg/zenshin-API/issues/3#issuecomment-5962807198) in [hitarth-gg/zenshin-API](https://github.com/hitarth-gg/zenshin-API)
+1. 🎉 Merged PR [#4](https://github.com/az4if/AniLink/pull/4) in [az4if/AniLink](https://github.com/az4if/AniLink)
+2. 🎉 Merged PR [#4](https://github.com/yoru-exe/AniLink/pull/4) in [yoru-exe/AniLink](https://github.com/yoru-exe/AniLink)
+3. 💪 Opened PR [#4](https://github.com/az4if/AniLink/pull/4) in [az4if/AniLink](https://github.com/az4if/AniLink)
+4. 💪 Opened PR [#4](https://github.com/yoru-exe/AniLink/pull/4) in [yoru-exe/AniLink](https://github.com/yoru-exe/AniLink)
+5. 💪 Opened PR [#5](https://github.com/Teramoto669/anikoto-API/pull/5) in [Teramoto669/anikoto-API](https://github.com/Teramoto669/anikoto-API)
 <!--END_SECTION:activity-->
 
 ## Guestbook
