@@ -77,11 +77,11 @@
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#47](https://github.com/walterwhite-69/Anivexa-API/pull/47) in [walterwhite-69/Anivexa-API](https://github.com/walterwhite-69/Anivexa-API)
-2. 🗣 Commented on [#46](https://github.com/walterwhite-69/Anivexa-API/issues/46#issuecomment-7227855720) in [walterwhite-69/Anivexa-API](https://github.com/walterwhite-69/Anivexa-API)
-3. 🎉 Merged PR [#4](https://github.com/az4if/AniLink/pull/4) in [az4if/AniLink](https://github.com/az4if/AniLink)
-4. 🎉 Merged PR [#4](https://github.com/yoru-exe/AniLink/pull/4) in [yoru-exe/AniLink](https://github.com/yoru-exe/AniLink)
-5. 💪 Opened PR [#4](https://github.com/az4if/AniLink/pull/4) in [az4if/AniLink](https://github.com/az4if/AniLink)
+1. 🎉 Merged PR [#47](https://github.com/walterwhite-69/Anivexa-API/pull/47) in [walterwhite-69/Anivexa-API](https://github.com/walterwhite-69/Anivexa-API)
+2. 💪 Opened PR [#47](https://github.com/walterwhite-69/Anivexa-API/pull/47) in [walterwhite-69/Anivexa-API](https://github.com/walterwhite-69/Anivexa-API)
+3. 🗣 Commented on [#46](https://github.com/walterwhite-69/Anivexa-API/issues/46#issuecomment-7227855720) in [walterwhite-69/Anivexa-API](https://github.com/walterwhite-69/Anivexa-API)
+4. 🎉 Merged PR [#4](https://github.com/az4if/AniLink/pull/4) in [az4if/AniLink](https://github.com/az4if/AniLink)
+5. 🎉 Merged PR [#4](https://github.com/yoru-exe/AniLink/pull/4) in [yoru-exe/AniLink](https://github.com/yoru-exe/AniLink)
 <!--END_SECTION:activity-->
 
 ## Guestbook
